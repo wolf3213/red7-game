@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1496156335 source:c:\users\user\desktop\red 7\red\main.cpp
+	<iostream>
+	<conio.h>
+	"zpis_zasad.h"
+
+1495044167 c:\users\user\desktop\red 7\red\los.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1496154277 source:c:\users\user\desktop\red 7\red\los.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1495882581 c:\users\user\desktop\red 7\red\los.h
+	<iostream>
+
+1495220710 source:c:\users\user\desktop\red 7\red\przypis.cpp
+	<iostream>
+
+1495882647 source:c:\users\user\desktop\red 7\red\sprawdzenie .cpp
+	<iostream>
+	"los.h"
+
+1495644622 source:c:\users\user\desktop\red 7\red\testowa_funckja.cpp
+	<iostream>
+
+1496258120 source:c:\users\user\desktop\red 7\red\fioletowa_funkcja.cpp
+	<iostream>
+
+1496154979 source:c:\users\user\desktop\red 7\red\sprawdzenie_gr .cpp
+	<iostream>
+	"zpis_zasad.h"
+
+1496083075 c:\users\user\desktop\red 7\red\zpis_zasad.h
+	<iostream>
+
+1496155537 source:c:\users\user\desktop\red 7\red\test.cpp
+	<iostream>
+
+1496485533 source:c:\users\user\desktop\red 7 wersja 0.2\red\fioletowa_funkcja.cpp
+	<iostream>
+
+1500137079 source:c:\users\user\desktop\red 7 wersja 0.2\red\main.cpp
+	<iostream>
+	<conio.h>
+	"zpis_zasad.h"
+
+1498421771 c:\users\user\desktop\red 7 wersja 0.2\red\zpis_zasad.h
+	<iostream>
+
+1498669460 source:c:\users\user\desktop\red 7 wersja 0.2\red\przypis.cpp
+	<iostream>
+
+1500038174 source:c:\users\user\desktop\red 7 wersja 0.2\red\sprawdzenie_gr .cpp
+	<iostream>
+	"zpis_zasad.h"
+
+1496155537 source:c:\users\user\desktop\red 7 wersja 0.2\red\test.cpp
+	<iostream>
+
+1496332895 source:c:\users\user\desktop\red 7 wersja 0.2\red\los.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1500137314 source:c:\users\user\desktop\red 7 wersja 0.2\red\zielona_funkcja.cpp
+	<iostream>
+
+1498668956 source:c:\users\user\desktop\red 7 wersja 0.2\red\¿o³ta_funkcja.cpp
+	<iostream>
+
+1496485533 source:c:\users\user\desktop\red 7 wersja 0.2\red 0.2\fioletowa_funkcja.cpp
+	<iostream>
+
+1496332895 source:c:\users\user\desktop\red 7 wersja 0.2\red 0.2\los.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1498669460 source:c:\users\user\desktop\red 7 wersja 0.2\red 0.2\przypis.cpp
+	<iostream>
+
+1500038174 source:c:\users\user\desktop\red 7 wersja 0.2\red 0.2\sprawdzenie_gr .cpp
+	<iostream>
+	"zpis_zasad.h"
+
+1498421771 c:\users\user\desktop\red 7 wersja 0.2\red 0.2\zpis_zasad.h
+	<iostream>
+
+1496155537 source:c:\users\user\desktop\red 7 wersja 0.2\red 0.2\test.cpp
+	<iostream>
+
+1500226863 source:c:\users\user\desktop\red 7 wersja 0.2\red 0.2\zielona_funkcja.cpp
+	<iostream>
+
+1498668956 source:c:\users\user\desktop\red 7 wersja 0.2\red 0.2\¿o³ta_funkcja.cpp
+	<iostream>
+
+1496481933 source:c:\users\user\desktop\gry karciane w c++\red 7 wersja 0.2\red 0.2\fioletowa_funkcja.cpp
+	<iostream>
+
+1537612232 source:c:\users\user\desktop\gry karciane w c++\red 7 wersja 0.2\red 0.2\los.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1531916446 source:c:\users\user\desktop\gry karciane w c++\red 7 wersja 0.2\red 0.2\main.cpp
+	<iostream>
+	<conio.h>
+	"zpis_zasad.h"
+
+1498418171 c:\users\user\desktop\gry karciane w c++\red 7 wersja 0.2\red 0.2\zpis_zasad.h
+	<iostream>
+
+1498665860 source:c:\users\user\desktop\gry karciane w c++\red 7 wersja 0.2\red 0.2\przypis.cpp
+	<iostream>
+
+1509537166 source:c:\users\user\desktop\gry karciane w c++\red 7 wersja 0.2\red 0.2\sprawdzenie_gr .cpp
+	<iostream>
+	"zpis_zasad.h"
+
+1496151937 source:c:\users\user\desktop\gry karciane w c++\red 7 wersja 0.2\red 0.2\test.cpp
+	<iostream>
+
+1500223263 source:c:\users\user\desktop\gry karciane w c++\red 7 wersja 0.2\red 0.2\zielona_funkcja.cpp
+	<iostream>
+
+1509226585 source:c:\users\user\desktop\gry karciane w c++\red 7 wersja 0.2\red 0.2\¿o³ta_funkcja.cpp
+	<iostream>
+
